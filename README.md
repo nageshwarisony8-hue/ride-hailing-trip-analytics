@@ -73,3 +73,20 @@ Project screenshots are included in this repository.
 ## Project Outcome
 
 Successfully implemented an end-to-end ride-hailing analytics platform using Databricks, including data cleaning, validation, business analytics, reconciliation, and an interactive published dashboard.
+
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](01_Executive_Overview.png-2.png)
+
+### Vehicle & Payment Analysis
+![Vehicle & Payment Analysis](02_Vehicle_Payment_Analysis.png)
+
+### Data Quality & Reconciliation
+![Data Quality](03_Data_Quality.png)
+
+### Pipeline Success
+![Pipeline Success](04_Pipeline_Success.png)
+
+### Gold Tables
+![Gold Tables](05_Gold_Tables.png)
